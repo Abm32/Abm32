@@ -1,6 +1,6 @@
 
 
-# Hi there, I'm Abhimanyu - aka [Skill-Monger][youtube] 👋 
+# Hello Guys ! 👋 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCGWGO7anud6koWYc-r6FU-g?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 
