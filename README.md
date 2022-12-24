@@ -11,11 +11,11 @@
 
 ## I'm a developer / Astronomer!!
 
-- 👋 Hi, I’m @Abm32
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Abhimanyu R B
+- 👀 I’m interested in the future
+- 🌱 I’m currently learning FSD (MERN)
+- 💞️ I’m looking to collaborate with others
+- 📫 You can reach me on ⬇️
 
 ### Connect with me:
 
