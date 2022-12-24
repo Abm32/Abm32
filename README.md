@@ -2,9 +2,9 @@
 
 # Hi there, I'm Abhimanyu - aka [Skill-Monger][youtube] 👋 
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCGWGO7anud6koWYc-r6FU-g?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAbhimanyuRB1&screen_name=AbhimanyuRB1)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Skill-Monger?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAbhimanyuRB1&screen_name=AbhimanyuRB1)
 
 
 
