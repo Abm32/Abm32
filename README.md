@@ -1,13 +1,15 @@
 
-
-<h1 align="center"> Hello Guys ! 👋 </h1>
-<h3 align="center"> I'm a developer / Astronomer!! </h3>
+<div align="center">
+<h1> Hello Guys ! 👋 </h1>
+<h3> I'm a developer / Astronomer!! </h3>
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCGWGO7anud6koWYc-r6FU-g?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/AbhimanyuRB1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAbhimanyuRB1&screen_name=AbhimanyuRB1)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abm32&label=Profile%20views&color=0e75b6&style=flat" alt="Abm32" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=Abm32&label=Profile%20views&color=0e75b6&style=flat" alt="Abm32" /> </p>
+      
+</div>
 
 - 👋 Hi, I’m Abhimanyu R B
 - 👀 I’m interested in the future
