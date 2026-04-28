@@ -18,12 +18,15 @@ I build useful products across AI, Web3 security, research platforms, and develo
 
 ## 🚀 Projects
 
+- 🎮 **[CODE RUNNER](https://coderunner.abhimanyurb.com/)** — Cyberpunk endless-runner built for **ElevenHacks × Zed**, where you play as a rogue AI escaping through live code. Features **ElevenLabs-powered** real-time narration, procedural SFX, and adaptive music that reacts to gameplay intensity.
+- 🧠 **[DevContext](https://devcontext.online)** — Context layer for developers. Helps AI tools understand your codebase, workflows, and intent by structuring project knowledge into usable context — enabling smarter debugging, generation, and collaboration.  
+- 🧩 **[Decidr](https://decidr.abhimanyurb.com/)** — Decision intelligence tool for builders. Breaks down complex choices into structured reasoning flows, helping evaluate trade-offs, risks, and outcomes with clarity.  
 - 📝 **[APOGEE](https://apogee.abhimanyurb.com/)** — Minimal writing space for reflections on life, wellness, travel, creativity, and growth.  
 - 🛡️ **[BlinkGuard](https://blinkguard.abhimanyurb.com/)** — Open-source safety layer for Solana Blinks with transaction simulation inside X/Twitter.  
 - ⛓️ **[Stake to Learn](https://github.com/Abm32/stake_learn)** — Web3 learning platform where students stake ETH, verify work via AI commits, and earn automatic refunds.  
 - 🔬 **[ResearchQuest](https://github.com/Abm32/research_quest)** — AI-powered research collaboration platform with progress tracking, communities, and academic paper APIs.  
 - 🧪 **[Synthatrial](https://github.com/Abm32/Synthatrial)** — Chemical intelligence tooling for exploring ChEMBL datasets and structured research workflows.  
-- 🏙️ **[ETHMumbai MaxiChecker](https://ethmumbai.maxichecker.abhimanyurb.com/)** — On-chain loyalty dashboard for ETHMumbai with wallet analysis, badges, and Maxi Score leaderboard.  
+- 🏙️ **[ETHMumbai MaxiChecker](https://ethmumbai.maxichecker.abhimanyurb.com/)** — On-chain loyalty dashboard for ETHMumbai with wallet analysis, badges, and Maxi Score leaderboard.
 
 ---
 
